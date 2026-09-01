@@ -31,71 +31,30 @@ Disclaimer
 
 SaaS/Hosted Platforms
 
-Innovaccer
-Healthcare intelligence and data-activation platform focused on unifying healthcare data, population health, care management, value-based care, analytics, and AI-assisted workflows.
-
-Innovaccer Atlas
-Population Health Operating System designed to connect healthcare data, intelligence, and care delivery across patient populations, care settings, and payment models.
-
-Arcadia
-Healthcare data and analytics platform focused on population health, value-based care, clinical data aggregation, quality measurement, provider performance, and financial intelligence.
-
-Health Catalyst
-Healthcare data and analytics platform providing enterprise data warehousing, population analytics, quality improvement, care management, and performance intelligence.
-
-ZeOmega
-Population health and care management platform built around the Jiva Healthcare Enterprise Management Platform, with capabilities for data integration, risk stratification, care management, utilization management, analytics, and quality programs.
-
-Lightbeam Health Solutions
-Population health management and value-based care platform supporting clinical data aggregation, patient risk identification, care coordination, quality improvement, and accountable care operations.
-
-Azara DRVS
-Healthcare analytics and population health platform focused particularly on community health centers, quality reporting, patient registries, population analytics, and clinical performance improvement.
-
-Innovaccer InCare
-Care-management and patient-engagement capabilities within the broader Innovaccer healthcare intelligence ecosystem.
-
-Epic Healthy Planet
-Population health management platform integrated with the Epic ecosystem for patient registries, risk stratification, care-gap management, quality programs, and population-based care.
-
-eClinicalWorks healow
-Digital health and patient-engagement ecosystem supporting patient access, care coordination, analytics, communication, and population-oriented healthcare workflows.
-
-Oracle Population Health
-Oracle Health platform for population health, value-based care, quality management, care coordination, longitudinal data intelligence, analytics, and AI-assisted patient prioritization.
-
-CareJourney
-Healthcare analytics platform focused on population intelligence, provider performance, network analysis, utilization, and value-based healthcare insights.
-
-ClosedLoop.ai
-Healthcare AI and predictive analytics platform focused on risk prediction, clinical intelligence, population analytics, and proactive care management.
-
-Jvion
-Healthcare AI and population-health technology ecosystem focused on predictive analytics and risk identification.
-
-Aledade
-Value-based primary-care platform providing technology, analytics, care-management support, and population-health infrastructure for independent practices.
-
-Lumeris
-Value-based care and population-health platform supporting care delivery transformation, analytics, population management, and risk-based payment models.
-
-Cotiviti
-Healthcare analytics platform providing data-driven solutions for quality, risk adjustment, payment integrity, and population health programs.
-
-Veradigm
-Healthcare data and technology platform supporting population analytics, clinical data exchange, provider performance, and value-based care workflows.
-
-Clarify Health
-Healthcare analytics and intelligence platform focused on population analytics, provider performance, care variation, and value-based care decision support.
-
-Cedar Gate Technologies
-Value-based care technology platform supporting population health, analytics, care management, financial management, and healthcare performance measurement.
-
-Persivia
-Healthcare data and care-management platform focused on population health, interoperability, analytics, risk stratification, and value-based care.
-
-CareCloud
-Healthcare technology platform offering clinical, practice, analytics, and population-oriented management capabilities.
+| SaaS Product | Description | Starting Pricing | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- |
+| **Innovaccer** | Healthcare intelligence and data-activation platform focused on unifying healthcare data, population health, care management, value-based care, analytics, and AI-assisted workflows. | `$250/month` (starter tier estimate) | No free forever plan; 14-day interactive demo & sandbox trial upon request |
+| **Innovaccer Atlas** | Population Health Operating System designed to connect healthcare data, intelligence, and care delivery across patient populations, care settings, and payment models. | `$500/month` (starter platform tier) | No free forever plan; 14-day risk-free pilot sandbox upon request |
+| **Arcadia** | Healthcare data and analytics platform focused on population health, value-based care, clinical data aggregation, quality measurement, provider performance, and financial intelligence. | `$500/user/month` (starting tier) | No free forever plan; 14-day custom sandbox trial upon request |
+| **Health Catalyst** | Healthcare data and analytics platform providing enterprise data warehousing, population analytics, quality improvement, care management, and performance intelligence. | `$1,000/month` (base platform tier) | No free forever plan; 30-day proof-of-concept sandbox trial upon request |
+| **ZeOmega** | Population health and care management platform built around the Jiva Healthcare Enterprise Management Platform, with capabilities for data integration, risk stratification, care management, utilization management, analytics, and quality programs. | `$1,000/month` (Jiva starting enterprise tier) | No free forever plan; 14-day enterprise demo sandbox upon request |
+| **Lightbeam Health Solutions** | Population health management and value-based care platform supporting clinical data aggregation, patient risk identification, care coordination, quality improvement, and accountable care operations. | `$600/month` (starter analytics tier) | No free forever plan; 14-day guided sandbox demo upon request |
+| **Azara DRVS** | Healthcare analytics and population health platform focused particularly on community health centers, quality reporting, patient registries, population analytics, and clinical performance improvement. | `$100/month` (single-user starter tier) | No free forever plan; 14-day trial/demo sandbox upon request |
+| **Innovaccer InCare** | Care-management and patient-engagement capabilities within the broader Innovaccer healthcare intelligence ecosystem. | `$200/provider/month` (care management starting tier) | No free forever plan; 14-day live sandbox demo trial upon request |
+| **Epic Healthy Planet** | Population health management platform integrated with the Epic ecosystem for patient registries, risk stratification, care-gap management, quality programs, and population-based care. | `$1,200/provider/month` (Garden Plot / Healthy Planet starting tier) | No free forever plan; Epic UserWeb sandbox demo environment for verified health systems |
+| **eClinicalWorks healow** | Digital health and patient-engagement ecosystem supporting patient access, care coordination, analytics, communication, and population-oriented healthcare workflows. | `$150/provider/month` (healow starter tier; $449/mo full EHR bundle) | No free forever plan; 14-day interactive software demo trial upon request |
+| **Oracle Population Health** | Oracle Health platform for population health, value-based care, quality management, care coordination, longitudinal data intelligence, analytics, and AI-assisted patient prioritization. | `$1,000/month` (Cerner HealtheIntent platform starting tier) | No free forever plan; 30-day Oracle Cloud healthcare sandbox trial upon request |
+| **CareJourney** | Healthcare analytics platform focused on population intelligence, provider performance, network analysis, utilization, and value-based healthcare insights. | `$5,000/company/month` (AppExchange Provider Performance starting tier) | No free forever plan; 14-day sample dataset evaluation trial upon request |
+| **ClosedLoop.ai** | Healthcare AI and predictive analytics platform focused on risk prediction, clinical intelligence, population analytics, and proactive care management. | `$500/month` (predictive analytics starter tier) | No free forever plan; 30-day proof-of-concept AI sandbox trial upon request |
+| **Jvion** | Healthcare AI and population-health technology ecosystem focused on predictive analytics and risk identification. | `$99/user/month` (clinical predictive analytics starting tier) | No free forever plan; 14-day clinical trial sandbox demo upon request |
+| **Aledade** | Value-based primary-care platform providing technology, analytics, care-management support, and population-health infrastructure for independent practices. | `$0/month base fee` (shared savings performance model: 5%–10% shared savings) | No standard free forever plan; 30-day practice assessment and onboarding trial |
+| **Lumeris** | Value-based care and population-health platform supporting care delivery transformation, analytics, population management, and risk-based payment models. | `$1,500/month` (value-based platform starting tier) | No free forever plan; custom executive demo sandbox upon request |
+| **Cotiviti** | Healthcare analytics platform providing data-driven solutions for quality, risk adjustment, payment integrity, and population health programs. | `$1,000/month` (quality & risk starter module) | No free forever plan; guided product demo environment upon request |
+| **Veradigm** | Healthcare data and technology platform supporting population analytics, clinical data exchange, provider performance, and value-based care workflows. | `$299/provider/month` (clinical analytics starting tier) | No free forever plan; 14-day interactive demo trial upon request |
+| **Clarify Health** | Healthcare analytics and intelligence platform focused on population analytics, provider performance, care variation, and value-based care decision support. | `$500/user/month` (starter tier for up to 5 users) | No free forever plan; 14-day sample dataset sandbox trial upon request |
+| **Cedar Gate Technologies** | Value-based care technology platform supporting population health, analytics, care management, financial management, and healthcare performance measurement. | `$750/month` (analytics starter suite) | No free forever plan; 14-day demo sandbox trial upon request |
+| **Persivia** | Healthcare data and care-management platform focused on population health, interoperability, analytics, risk stratification, and value-based care. | `$400/month` (Persivia CareSpace starting tier) | No free forever plan; 14-day live software demo trial upon request |
+| **CareCloud** | Healthcare technology platform offering clinical, practice, analytics, and population-oriented management capabilities. | `$349/provider/month` (CareCloud Central starting tier; $628/mo EHR bundle) | No free forever plan; 14-day free demo trial upon request |
 
 Open-Source GitHub Projects
 Population Health, Cohort Discovery & Observational Analytics
